@@ -2,7 +2,7 @@
   "name": "ethereumjs-testrpc-sc",
   "version": "3.0.3",
   "bin": {
-    "testrpc": "./bin/testrpc"
+    "testrpc-sc": "./bin/testrpc"
   },
   "main": "./index.js",
   "directories": {
