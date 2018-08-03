@@ -18,7 +18,7 @@
     "prepare": "npm run build"
   },
   "devDependencies": {
-    "ganache-core": "https://github.com/sc-forks/ganache-core-sc.git#ef694daccef375bfaae74fcb7347f4f0adf1cbbc",
+    "ganache-core": "https://github.com/sc-forks/ganache-core-sc.git#eb3b8d7ec8e9e9354136ae6fd21680549c4cfa94",
     "on-build-webpack": "^0.1.0",
     "prepend-file": "^1.3.1",
     "shebang-loader": "0.0.1",
