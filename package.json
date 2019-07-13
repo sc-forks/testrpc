@@ -22,7 +22,7 @@
     "yargs"
   ],
   "devDependencies": {
-    "ganache-core": "https://github.com/sc-forks/ganache-core-sc.git#03b8c180a939a6a6fe630250be452e99686e8025",
+    "ganache-core": "https://github.com/sc-forks/ganache-core-sc.git#252bd11ca91845d32532a967443df1174ce524f1",
     "js-scrypt": "0.2.0",
     "node-loader": "^0.6.0",
     "on-build-webpack": "^0.1.0",
