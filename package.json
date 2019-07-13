@@ -1,6 +1,6 @@
 {
   "name": "ethereumjs-testrpc-sc",
-  "version": "6.4.5-sc.2",
+  "version": "6.4.5-sc.3",
   "bin": {
     "testrpc-sc": "cli.js"
   },
